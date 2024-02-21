@@ -1,0 +1,27 @@
+/* Style all HTML elements *//* Style all HTML elements */
+* {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  background-color: aqua;
+
+}
+
+/* Style all <h1> elements */
+h1 {
+  color: blue;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 300;
+}
+
+/* Style all <p> elements */
+p {
+  color: red;
+}
+
+/* Style all <a> elements that have the class "link" */
+a.link {
+  color: green;
+}
+
+
+
